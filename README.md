@@ -65,7 +65,7 @@ notebook it comes from); the paper is self-contained in English.
 
 ## Links
 
-- Paper: [preprint 待補]
+- Paper (preprint): [doi:10.5281/zenodo.22044933](https://doi.org/10.5281/zenodo.22044933) (arXiv submission in process)
 - Journal: [Sulla Soglia](https://github.com/Sulla-Soglia)
 
 ## License
