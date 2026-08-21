@@ -1,0 +1,16 @@
+cond,seed,grok_epoch,final_train_acc,final_test_acc,seconds
+learned,0,4120,1.0,1.0,108.4
+learned,1,5000,1.0,1.0,104.7
+learned,2,4720,1.0,1.0,134.5
+learned,3,5660,1.0,1.0,158.4
+learned,4,4760,1.0,1.0,104.4
+sinusoidal,0,4980,1.0,1.0,99.3
+sinusoidal,1,3780,1.0,1.0,92.7
+sinusoidal,2,3760,1.0,1.0,91.9
+sinusoidal,3,3080,1.0,1.0,87.9
+sinusoidal,4,4860,0.0382,0.0,92.4
+diffonly,0,4320,1.0,1.0,93.6
+diffonly,1,4160,1.0,1.0,90.2
+diffonly,2,4780,1.0,1.0,91.3
+diffonly,3,3820,1.0,1.0,88.6
+diffonly,4,4660,0.1419,0.1331,88.1
