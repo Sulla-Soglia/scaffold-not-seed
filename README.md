@@ -58,7 +58,7 @@ Hypotheses H1–H4, readouts, and the falsification condition were frozen on
 2026-08-05, before any grid run. The file in `preregistration/` is unedited —
 including H4, which the data falsified in an unexpected direction (the
 sinusoidal PE's pathology turned out to be its bias norm, not its
-periodicity). A DOI-stamped copy is archived on Zenodo: [DOI 待補].
+periodicity). A DOI-stamped copy is archived on Zenodo: [10.5281/zenodo.22042751](https://doi.org/10.5281/zenodo.22042751).
 
 The pre-registration is written in Chinese (the working language of the lab
 notebook it comes from); the paper is self-contained in English.
